@@ -32,8 +32,7 @@
 
 ### 🚀 Projects
 
-> *(You can list your top 2–3 projects here with brief descriptions and GitHub links)*  
-> Example:
+
 - 📦 **Smart Line Follower Dustbin** – An Arduino-based automated dustbin that follows lines and dumps garbage.
 - 🌐 **Java WebApp** – A simple web app using JSP and Servlets to manage student records.
 
