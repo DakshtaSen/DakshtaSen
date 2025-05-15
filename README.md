@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW92cnVkbzZ2enNwcWxibzJyaXJhOHNrOTB6b2hiNWQ4ZmF0NmhjMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/giphy.gif" width="400" alt="Welcome GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV0OWVnM21oNHBjNHQ1ZTVqZjhrajNsYTQxYml3b2lkaHVteWtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Welcome GIF" />
 </p>
 
 ## 👋 Hi there, I'm Dakshta!
@@ -44,7 +44,7 @@
   <a href="https://github.com/DakshtaSen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/dakshta-sen-170834339">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="dakshtasen2004@gmail.com">
