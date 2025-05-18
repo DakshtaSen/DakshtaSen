@@ -14,12 +14,16 @@
 
 ### 🛠️ Skills
 
+![image](https://github.com/user-attachments/assets/0a07c76f-4a79-41c0-950a-02071254b107)
+![image](https://github.com/user-attachments/assets/679a41bf-d5ab-422e-a428-e874645d5ec2)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://github.com/user-attachments/assets/cbb73c13-7c7d-4e73-8773-a68c017988a8)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
