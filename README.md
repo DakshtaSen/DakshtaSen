@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmszOG5hdzM4d295NGwyenN2a2pjb3k3aGdrazBuaWgxZzJ5ZHRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrZECW1GgBkqat6F0B/giphy.gif" width="400" alt="Welcome GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmszOG5hdzM4d295NGwyenN2a2pjb3k3aGdrazBuaWgxZzJ5ZHRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrZECW1GgBkqat6F0B/giphy.gif" height="350" width="400" alt="Welcome GIF" />
 </p>
 
 ## 👋 Hi there, I'm Dakshta!
@@ -37,9 +37,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshtaSen&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshtaSen&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshtaSen&show_icons=true&theme=github_dark&cache_seconds=86400&v=2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshtaSen&layout=compact&theme=github_dark&cache_seconds=86400&v=2" width="48%" />
 </p>
+
 
 ---
 
