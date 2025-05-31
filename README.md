@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV0OWVnM21oNHBjNHQ1ZTVqZjhrajNsYTQxYml3b2lkaHVteWtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Welcome GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmszOG5hdzM4d295NGwyenN2a2pjb3k3aGdrazBuaWgxZzJ5ZHRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrZECW1GgBkqat6F0B/giphy.gif" width="400" alt="Welcome GIF" />
 </p>
 
 ## 👋 Hi there, I'm Dakshta!
